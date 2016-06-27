@@ -11,7 +11,7 @@ compile:        false
 (*
 	Saves the mail attachments to DOWNLOADS.
 *)
-property DOWNLOADS : "/Volumes/Hyrrokkin/Downloads"
+property DOWNLOADS : "~/Downloads"
 property TRASH_AFTER : false
 
 using terms from application "Mail"
